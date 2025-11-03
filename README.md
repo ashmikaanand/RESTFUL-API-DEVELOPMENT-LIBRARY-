@@ -44,6 +44,8 @@ This will give us CRUD OPERATIONS
 THE OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/85302a3d-0631-4853-a964-b12b850d884e" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ab3413f1-e4c2-4e28-9659-646428e350ee" />
+
 
 
 
