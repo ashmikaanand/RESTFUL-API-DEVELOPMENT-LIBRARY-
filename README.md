@@ -37,6 +37,10 @@ python app.py
 
 http://127.0.0.1:5000/
 
+5.create another folder test_api.py
+
+This will give us CRUD OPERATIONS
+
 THE OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/85302a3d-0631-4853-a964-b12b850d884e" />
 
